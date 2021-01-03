@@ -1,0 +1,14 @@
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\bin\Debug\netcoreapp2.1\LandonHotelAPI.deps.json
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\bin\Debug\netcoreapp2.1\LandonHotelAPI.runtimeconfig.json
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\bin\Debug\netcoreapp2.1\LandonHotelAPI.runtimeconfig.dev.json
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\bin\Debug\netcoreapp2.1\LandonHotelAPI.dll
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\bin\Debug\netcoreapp2.1\LandonHotelAPI.pdb
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.csprojAssemblyReference.cache
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.csproj.CoreCompileInputs.cache
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.RazorAssemblyInfo.cache
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.RazorAssemblyInfo.cs
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.AssemblyInfoInputs.cache
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.AssemblyInfo.cs
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.RazorTargetAssemblyInfo.cache
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.dll
+N:\Lynda\LandonHotelAPI\LandonHotelAPI\LandonHotelAPI\obj\Debug\netcoreapp2.1\LandonHotelAPI.pdb
